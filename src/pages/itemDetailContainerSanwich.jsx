@@ -1,5 +1,5 @@
 import  { useEffect, useState } from 'react'
-import ItemDetail from './itemDetail'
+import ItemDetail from '../components/itemDetail'
 import { promesa } from '../app/api'
 import { useParams } from 'react-router-dom'
 

@@ -23,6 +23,7 @@ const NavBar= () => {
         <Link to='categoria/enamorados' className="menu-Link"><h2>Enamorados</h2></Link>
         <Link to='categoria/infantiles' className="menu-Link"><h2>Infantiles</h2></Link>
         <Link to='/' className="menu-Link"><h2>Tu Desayuno</h2></Link>
+        <Link to='cart/' className="menu-Link"><h2>Carrito</h2></Link>
     </div>
 
     </div>

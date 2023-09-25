@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import ListAniversario from "./listAniversario"
+import ListAniversario from "../components/listSanwiches"
 import { promesa } from "../app/api"
 import { useParams } from "react-router-dom"
 
